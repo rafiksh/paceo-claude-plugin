@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "paceo": {
+      "type": "http",
+      "url": "https://www.paceo.co/api/mcp"
+    }
+  }
+}

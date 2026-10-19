@@ -1,0 +1,15 @@
+{
+  "name": "paceo",
+  "description": "Official Paceo plugin for Claude Code.",
+  "owner": {
+    "name": "Paceo",
+    "url": "https://www.paceo.co"
+  },
+  "plugins": [
+    {
+      "name": "paceo",
+      "source": "./",
+      "description": "Paceo training and nutrition coach for Claude Code."
+    }
+  ]
+}
