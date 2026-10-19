@@ -2,9 +2,20 @@
   "name": "paceo",
   "version": "1.0.0",
   "description": "Paceo training and nutrition coach: read your workouts, calendar, health and meals, and create and schedule workouts, recipes and meal plans.",
-  "author": { "name": "Paceo", "url": "https://www.paceo.co" },
+  "author": {
+    "name": "Paceo",
+    "url": "https://www.paceo.co"
+  },
   "homepage": "https://www.paceo.co",
   "repository": "https://github.com/rafiksh/paceo-claude-plugin",
   "license": "MIT",
-  "keywords": ["fitness", "training", "nutrition", "health", "workouts", "coaching"]
+  "keywords": [
+    "fitness",
+    "training",
+    "nutrition",
+    "health",
+    "workouts",
+    "coaching"
+  ],
+  "privacyPolicyUrl": "https://www.paceo.co/privacy"
 }
