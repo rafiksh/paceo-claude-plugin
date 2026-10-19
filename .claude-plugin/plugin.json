@@ -17,5 +17,8 @@
     "workouts",
     "coaching"
   ],
-  "privacyPolicyUrl": "https://www.paceo.co/privacy"
+  "privacyPolicyUrl": "https://www.paceo.co/privacy",
+  "supportUrl": "https://www.paceo.co/contact",
+  "documentationUrl": "https://github.com/rafiksh/paceo-claude-plugin#readme",
+  "termsOfServiceUrl": "https://www.paceo.co/terms"
 }

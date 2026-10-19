@@ -24,4 +24,4 @@ Health and nutrition access is off by default for every new connection. You can 
 
 ## Support
 
-https://www.paceo.co
+https://www.paceo.co/contact
