@@ -14,13 +14,13 @@ Then run `/mcp`, pick **paceo** and sign in with your Paceo account.
 ## What it can do
 
 - Read your calendar, activities, workouts, exercises and recipes
-- Read health data and meal logs (only after you allow it in Paceo, Settings, Connected apps)
+- Read health data and meal logs (you can turn either off in Paceo, Settings, Connected apps)
 - Create workouts and exercises, schedule, reschedule or swap sessions
 - Search foods, log meals, plan meals and set nutrition targets
 
 ## Privacy
 
-Health and nutrition access is off by default for every new connection. You can turn each one on or off at any time from Paceo's connected apps settings. See the [privacy policy](https://www.paceo.co/privacy).
+Connecting Paceo gives Claude access to your health and nutrition data by default. You can turn each one off at any time from Paceo's connected apps settings, separately for each connected assistant, and the change applies right away. See the [privacy policy](https://www.paceo.co/privacy).
 
 ## Support
 
